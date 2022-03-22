@@ -1,0 +1,19 @@
+.centrado {
+  padding-right: var(--bs-gutter-x, 0.75rem);
+  padding-left: var(--bs-gutter-x, 0.75rem);
+  margin-right: auto;
+  margin-left: auto;
+  justify-content: center;
+}
+
+.centrado2 {
+  display: block;
+  padding: 0.5rem 1rem;
+  color: black;
+  text-decoration: none;
+  transition: color 0.15s ease-in-out, background-color 0.15s ease-in-out, border-color 0.15s ease-in-out;
+  padding-right: 4.5rem;
+  padding-left: 4.5rem;
+}
+
+/*# sourceMappingURL=style.css.map */
